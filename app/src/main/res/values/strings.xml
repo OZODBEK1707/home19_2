@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">home19_2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit_pulvinar_aliquam_at_donec_facilisis_lacus_justo_volutpat_diam_condimentum_ipsum_faucibus_rutrum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pulvinar aliquam at donec facilisis. Lacus, justo, volutpat, diam condimentum ipsum, faucibus rutrum.</string>
+</resources>
